@@ -49,7 +49,7 @@ The assessment focused exclusively on **client-side security weaknesses** that c
 ## 📄 Full Technical Report
 The complete penetration testing report is available here:
 
-📘 **[VulnBank3 Mobile Penetration Test Report](report/VulnBank3_Mobile_Penetration_Test_Report.pdf)**
+📘 **[📄 View the report](VulnBank3_Mobile_Penetration_Test_Report.pdf)**
 
 The report includes:
 - Executive summary
